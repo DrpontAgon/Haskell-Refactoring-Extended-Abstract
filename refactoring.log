@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.27)  27 JAN 2021 02:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 21.1) (preloaded format=pdflatex 2021.1.27)  27 JAN 2021 02:47
 entering extended mode
 **./refactoring.tex
 (refactoring.tex
@@ -309,43 +309,40 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 27.
- [1
-
-{C:/Users/Viktor/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] [3]
+ (refactoring.bbl
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 327.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 327.
- (refactoring.bbl [4])
-[5]
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 17.
+
+[1
+
+{C:/Users/Viktor/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]) [2]
 \pages=\write4
 \openout4 = `refactoring.pag'.
 
- (refactoring.aux)
+
+(refactoring.aux)
 Package rerunfilecheck Info: File `refactoring.out' has not changed.
-(rerunfilecheck)             Checksum: 7A6BEC7FA88EE95D2907EE3711B76F30;187.
+(rerunfilecheck)             Checksum: A02D95553E30B97FF125B1AA17CF9044;47.
  ) 
 Here is how much of TeX's memory you used:
- 4992 strings out of 479618
- 78380 string characters out of 2874899
- 385420 words of memory out of 3000000
- 22018 multiletter control sequences out of 15000+200000
- 454183 words of font info for 125 fonts, out of 3000000 for 9000
+ 4946 strings out of 479618
+ 77906 string characters out of 2874899
+ 385401 words of memory out of 3000000
+ 22001 multiletter control sequences out of 15000+200000
+ 441592 words of font info for 99 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 86i,13n,88p,336b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 86i,13n,88p,294b,474s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/base/8r.enc}<C:/Program Files/MiKTeX
-/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfo
-nts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt9
-.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Program File
-s/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/
-urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmri8a.pfb
->
-Output written on refactoring.pdf (5 pages, 139709 bytes).
+/fonts/type1/public/amsfonts/cm/cmtt10.pfb><C:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmtt9.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/ut
+mb8a.pfb><C:/Program Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program 
+Files/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX/fonts/ty
+pe1/urw/times/utmri8a.pfb>
+Output written on refactoring.pdf (2 pages, 95595 bytes).
 PDF statistics:
- 166 PDF objects out of 1000 (max. 8388607)
- 35 named destinations out of 1000 (max. 500000)
- 33 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 109 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
